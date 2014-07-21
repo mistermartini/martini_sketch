@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scratch" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="233" y="500" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="452" y="0" type="line"/>
+      <point x="214" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="1632" y="1" type="line"/>
+      <point x="1632" y="19" type="line"/>
+      <point x="1314" y="19" type="line"/>
+      <point x="1300" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="1619" y="500" type="line"/>
+      <point x="1286" y="0" type="line"/>
+      <point x="1304" y="0" type="line"/>
+      <point x="1638" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="451" y="500" type="line"/>
+      <point x="470" y="500" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1624" y="500" type="line"/>
+      <point x="1301" y="500" type="line"/>
+      <point x="1301" y="482" type="line"/>
+      <point x="1610" y="482" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>1298</integer>
+          <key>y</key>
+          <integer>179</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/var/folders/rz/fqy0fsxd6839316wdj5w5k0c0000gn/T/tmpaW47nG</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>1.9644040311165607</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>2.0315953686625448</real>
+                <real>-325.76531582952896</real>
+                <real>-159.6821679429554</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>scratch</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
